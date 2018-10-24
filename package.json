@@ -1,0 +1,15 @@
+{
+  "name": "1024",
+  "version": "0.1.0",
+  "description": "1024字符打印",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "guansixu (https://github.com/guandaxia)",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2"
+  }
+}
